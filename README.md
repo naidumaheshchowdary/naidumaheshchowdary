@@ -1,7 +1,7 @@
 # Hello there, I'm Mahesh Naidu 👋
 
-📧 Email: maheshn@pdx.edu  
-🔗 LinkedIn: https://linkedin.com/in/maheshnaidu  
+📧 Email: naidu.mahesh221@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/mahesh-naidu-167a74175/  
 💻 GitHub: https://github.com/naidumaheshchowdary  
 
 🎓 M.S. Electrical & Computer Engineering – Portland State University  
@@ -59,7 +59,11 @@ I am a graduate student specializing in **hardware design and verification**, wi
 - Reduced recurring production incidents by 30%  
 
 ---
-
+Open To Work
+Hardware design/verification internship opportunities (March 2026)
+Open-source hardware verification collaborations
+RISC-V ecosystem and hardware verification communities
+Discussions on emerging computer architecture trends
 ## Contact
 
 - Email: naidu.mahesh221@gmail.com
