@@ -60,11 +60,11 @@ I am a graduate student specializing in **hardware design and verification**, wi
 
 ---
 Open To Work
-Hardware design/verification internship opportunities (March 2026)
+Hardware design/verification Fulltime opportunities (December 2026)
 Open-source hardware verification collaborations
 RISC-V ecosystem and hardware verification communities
 Discussions on emerging computer architecture trends
 ## Contact
 
 - Email: naidu.mahesh221@gmail.com
-- LinkedIn: https://linkedin.com/in/maheshnaidu
+- LinkedIn: https://www.linkedin.com/in/mahesh-naidu-167a74175/
