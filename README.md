@@ -7,13 +7,6 @@
 🎓 M.S. Electrical & Computer Engineering – Portland State University  
 🧠 Hardware Design & Verification Engineer  
 ---
-
-## About Me
-
-I am a graduate student specializing in **ASIC/SoC design and verification**, with strong hands-on experience in **SystemVerilog, UVM, formal verification, and computer architecture**. I am passionate about building **correct, scalable, and high-performance hardware systems** through rigorous verification methodologies.
-
----
-
 ---
 
 ## About Me
@@ -28,7 +21,7 @@ I am a graduate student specializing in **hardware design and verification**, wi
 - **Verification**: UVM, SVA, Constraint Randomization, CDC, Formal (FPV/FCA/AEP)  
 - **EDA Tools**: Synopsys VCS, VC Formal, QuestaSim, JasperGold, Verdi  
 - **Architecture**: CPU Pipelines, Cache Coherence (MESI), Interconnects, Memory Systems  
-- **Protocols**: AHB, APB, UART, SPI, I2C, USB  
+- **Protocols**: AHB, APB, AHB2APB, UART, SPI, I2C 
 
 ---
 
